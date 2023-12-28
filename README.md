@@ -16,8 +16,15 @@ Step 2:
 
 Open "module_4_challenge.ipynb" and run the panels.
 
+Alternatively,
+
+Step 1:
+
+Navigate to the "module_4_challenge.ipynb" in GitHub repo. The output can be viewed in the "Preview" panel.
+
 #### Resources
 
 - https://en.moonbooks.org/Articles/How-to-extract-the-value-names-and-counts-from-valuecounts-in-pandas-/
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.applymap.html
+- https://pythonguides.com/python-print-2-decimal-places/
